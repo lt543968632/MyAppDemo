@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
         inFilename = Environment.getDataDirectory()+"/inFile.mp3";
 
         //storage/emulated/0/exFile.mp3
-        exFilename = Environment.getExternalStorageDirectory() + "/ex50File.mp3";
+        exFilename = Environment.getExternalStorageDirectory() + "/ex500File.mp3";
 
 
 
